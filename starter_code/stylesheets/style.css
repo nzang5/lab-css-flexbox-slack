@@ -211,7 +211,6 @@ nav grey: #5b5e6d;
 
 @media screen and (min-width: 768px) and (max-width: 1024px){
     body {
-    -webkit-font-smoothing: auto;
     margin: 0;
     font-size: 16px;
     padding: 0;
